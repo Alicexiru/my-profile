@@ -1,0 +1,81 @@
+/*Colors and fonts*/
+
+body {
+	background: #e5e5e5;
+	color: #293a80;
+	font-family: 'Kalam', cursive;
+	font-size: 20px;
+}
+
+h1, h2, h3 {font-family: 'Sulphur Point', sans-serif;
+}
+h1 {
+
+color: #f77754;
+font-size: 50px;
+font-weight: 400px;
+}
+h2 {
+	color: #83b582;
+font-size: 26px;
+font-weight: ;
+}
+
+a {
+	text-decoration: none;
+	color: #ff9e74;
+
+}
+a:hover {
+	color: #fff8a6;
+}
+
+/* Custom design with class */
+
+.container { 
+        width: 700px
+        margin: 40px auto;
+  }
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	margin: 20px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1)
+	border-radius: 4px;
+
+}
+img{
+	width:150px;
+	border-radius: 50%;
+ 
+}
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+
+.list-inline{
+	list-style: none;
+	padding-left: 220px;
+}
+.list-inline li {
+	display: inline;
+	padding-left: 10px;
+}
+.list-inline i {
+	font-size: 50px;
+	color: #ef4339;
+}
+.list-inline i:hover{
+	color: black;
+}
+.card-white{background: white;
+	padding: 30px;
+	margin: 20px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1;
+  
+
+}
+ 
